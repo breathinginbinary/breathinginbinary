@@ -1,4 +1,4 @@
-##Welcome!
+## Welcome!
 
 # About Me:
 I'm currently working on the projects you see here, utilizing AI and exploring different languages and methods.<br>I'm currently enhancing my AI skills and preparing for the AWS Solutions Architect Certification.<br>I'm a Senior Software Engineer with 10+ years of experience.<br>My main tech stack includes .NET/C#, ASP.NET, Angular, TypeScript, and Node.js.
